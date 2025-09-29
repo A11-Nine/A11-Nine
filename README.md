@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![A11's GitHub stats](https://github-readme-stats.vercel.app/api?username=A11-Nine)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ileriayo)
+![trophy](https://github-profile-trophy.vercel.app/?username=A11-Nine)
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
